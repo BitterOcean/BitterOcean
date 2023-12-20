@@ -83,8 +83,8 @@ Hi there, my name is Maryam Saeidmehr. I am a computer engineer graduated from I
 
 
 ### 🔠 Languages
- - Persian (Mother Tongue)
- - English (Foreign Language)
+ - Persian (Native proficiency)
+ - English (Professional working proficiency)
 
 
 ## 📚 Repositories
