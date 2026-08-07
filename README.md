@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 Hi there, my name is Maryam Saeidmehr. I am a Master's student in Artificial Intelligence at the University of Bologna, with a year-long Erasmus+ exchange at NTNU (Norway). My areas of interest are <b>machine learning</b>, <b>deep learning</b>, and <b>computer vision</b>. Check out my [CV](https://github.com/BitterOcean/BitterOcean/raw/main/maryam-saeidmehr-cv.pdf), and <a href="https://maryamsaeedmehr.github.io" target="_blank" rel="noreferrer">Online résumé</a> to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=BitterOcean)](https://github.com/BitterOcean/BitterOcean)
-[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=BitterOcean&description_lines_count=3&cache_seconds=3600)](https://github.com/BitterOcean/BitterOcean)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io&description_lines_count=3&cache_seconds=3600)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
 
 
 ## 📇 Social & Contact
@@ -89,8 +89,8 @@ Hi there, my name is Maryam Saeidmehr. I am a Master's student in Artificial Int
 
 ## 📚 Repositories
 
-[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=IUT)](https://github.com/BitterOcean/IUT)
-[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=NTNU)](https://github.com/BitterOcean/NTNU)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=IUT&description_lines_count=3&cache_seconds=3600)](https://github.com/BitterOcean/IUT)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=NTNU&description_lines_count=3&cache_seconds=3600)](https://github.com/BitterOcean/NTNU)
  
-[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector)](https://github.com/BitterOcean/Covid19-Detector)
-[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=snowpole-detection)](https://github.com/BitterOcean/snowpole-detection)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector&description_lines_count=3&cache_seconds=3600)](https://github.com/BitterOcean/Covid19-Detector)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=snowpole-detection&description_lines_count=3&cache_seconds=3600)](https://github.com/BitterOcean/snowpole-detection)
