@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=BitterOcean&color=blueviolet&style=for-the-badge">
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BitterOcean&show_icons=true)](https://github.com/BitterOcean/BitterOcean)
+[![ReadMe Card](https://github-readme-stats-kohl-two-11.vercel.app/api?username=BitterOcean&show_icons=true)](https://github.com/BitterOcean/BitterOcean)
 
 ## 👤 About Me
 
-Hi there, my name is Maryam Saeidmehr. I am a master's student in Artificial Intelligence at the University of Bologna and currently an exchange student at NTNU, Norway. My areas of interest are <b>machine learning</b>, <b>deep learning</b>, and <b>computer vision</b>. Check out my [CV](https://github.com/BitterOcean/BitterOcean/raw/main/maryam-saeidmehr-cv.pdf), and <a href="https://maryamsaeedmehr.github.io" target="_blank" rel="noreferrer">Online résumé</a> to learn more about me and my projects.
+Hi there, my name is Maryam Saeidmehr. I am a Master's student in Artificial Intelligence at the University of Bologna, with a year-long Erasmus+ exchange at NTNU (Norway). My areas of interest are <b>machine learning</b>, <b>deep learning</b>, and <b>computer vision</b>. Check out my [CV](https://github.com/BitterOcean/BitterOcean/raw/main/maryam-saeidmehr-cv.pdf), and <a href="https://maryamsaeedmehr.github.io" target="_blank" rel="noreferrer">Online résumé</a> to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=BitterOcean)](https://github.com/BitterOcean/BitterOcean)
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=BitterOcean)](https://github.com/BitterOcean/BitterOcean)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
 
 
 ## 📇 Social & Contact
@@ -89,8 +89,8 @@ Hi there, my name is Maryam Saeidmehr. I am a master's student in Artificial Int
 
 ## 📚 Repositories
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=IUT)](https://github.com/BitterOcean/IUT)
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
-
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector)](https://github.com/BitterOcean/Covid19-Detector)
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=ComputerScienceSchools)](https://github.com/BitterOcean/ComputerScienceSchools)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=IUT)](https://github.com/BitterOcean/IUT)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=NTNU)](https://github.com/BitterOcean/NTNU)
+ 
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector)](https://github.com/BitterOcean/Covid19-Detector)
+[![Pinned Repository](https://github-readme-stats-kohl-two-11.vercel.app/api/pin/?username=BitterOcean&repo=snowpole-detection)](https://github.com/BitterOcean/snowpole-detection)
